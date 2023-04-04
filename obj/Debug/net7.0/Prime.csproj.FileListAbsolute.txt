@@ -1,0 +1,15 @@
+E:\ALL GIT C#\Prime\bin\Debug\net7.0\Prime.exe
+E:\ALL GIT C#\Prime\bin\Debug\net7.0\Prime.deps.json
+E:\ALL GIT C#\Prime\bin\Debug\net7.0\Prime.runtimeconfig.json
+E:\ALL GIT C#\Prime\bin\Debug\net7.0\Prime.dll
+E:\ALL GIT C#\Prime\bin\Debug\net7.0\Prime.pdb
+E:\ALL GIT C#\Prime\obj\Debug\net7.0\Prime.csproj.AssemblyReference.cache
+E:\ALL GIT C#\Prime\obj\Debug\net7.0\Prime.GeneratedMSBuildEditorConfig.editorconfig
+E:\ALL GIT C#\Prime\obj\Debug\net7.0\Prime.AssemblyInfoInputs.cache
+E:\ALL GIT C#\Prime\obj\Debug\net7.0\Prime.AssemblyInfo.cs
+E:\ALL GIT C#\Prime\obj\Debug\net7.0\Prime.csproj.CoreCompileInputs.cache
+E:\ALL GIT C#\Prime\obj\Debug\net7.0\Prime.dll
+E:\ALL GIT C#\Prime\obj\Debug\net7.0\refint\Prime.dll
+E:\ALL GIT C#\Prime\obj\Debug\net7.0\Prime.pdb
+E:\ALL GIT C#\Prime\obj\Debug\net7.0\Prime.genruntimeconfig.cache
+E:\ALL GIT C#\Prime\obj\Debug\net7.0\ref\Prime.dll
